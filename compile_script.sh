@@ -1,6 +1,6 @@
 # Make sure that you are in the right folder
 
-cd ..
+#cd ..
 rm -rf build
 mkdir build
 cd build

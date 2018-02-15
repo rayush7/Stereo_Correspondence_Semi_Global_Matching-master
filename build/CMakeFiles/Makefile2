@@ -47,10 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1
+CMAKE_SOURCE_DIR = /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build
+CMAKE_BINARY_DIR = /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/malaga_test.dir
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dat
 CMakeFiles/malaga_test.dir/all:
 	$(MAKE) -f CMakeFiles/malaga_test.dir/build.make CMakeFiles/malaga_test.dir/depend
 	$(MAKE) -f CMakeFiles/malaga_test.dir/build.make CMakeFiles/malaga_test.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles  1 2
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles  1 2
 	@echo "Built target malaga_test"
 .PHONY : CMakeFiles/malaga_test.dir/all
 
@@ -69,9 +69,9 @@ all: CMakeFiles/malaga_test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/malaga_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/malaga_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles 0
 .PHONY : CMakeFiles/malaga_test.dir/rule
 
 # Convenience name for target.

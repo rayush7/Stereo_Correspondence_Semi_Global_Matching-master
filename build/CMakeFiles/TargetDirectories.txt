@@ -1,1 +1,1 @@
-/home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles/malaga_test.dir
+/home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles/malaga_test.dir

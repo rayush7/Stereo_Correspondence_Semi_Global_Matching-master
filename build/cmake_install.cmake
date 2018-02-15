@@ -1,4 +1,4 @@
-# Install script for directory: /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1
+# Install script for directory: /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

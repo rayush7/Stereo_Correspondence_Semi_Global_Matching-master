@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1
+CMAKE_SOURCE_DIR = /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build
+CMAKE_BINARY_DIR = /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/malaga_test.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/malaga_test.dir/flags.make
 
 CMakeFiles/malaga_test.dir/main.cpp.o: CMakeFiles/malaga_test.dir/flags.make
 CMakeFiles/malaga_test.dir/main.cpp.o: ../main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/malaga_test.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/malaga_test.dir/main.cpp.o -c /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/malaga_test.dir/main.cpp.o -c /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/main.cpp
 
 CMakeFiles/malaga_test.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/malaga_test.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/main.cpp > CMakeFiles/malaga_test.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/main.cpp > CMakeFiles/malaga_test.dir/main.cpp.i
 
 CMakeFiles/malaga_test.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/malaga_test.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/main.cpp -o CMakeFiles/malaga_test.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/main.cpp -o CMakeFiles/malaga_test.dir/main.cpp.s
 
 CMakeFiles/malaga_test.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/malaga_test.dir/main.cpp.o.requires
@@ -74,17 +74,17 @@ CMakeFiles/malaga_test.dir/main.cpp.o.provides.build: CMakeFiles/malaga_test.dir
 
 CMakeFiles/malaga_test.dir/malaga_test.cpp.o: CMakeFiles/malaga_test.dir/flags.make
 CMakeFiles/malaga_test.dir/malaga_test.cpp.o: ../malaga_test.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/malaga_test.dir/malaga_test.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/malaga_test.dir/malaga_test.cpp.o -c /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/malaga_test.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/malaga_test.dir/malaga_test.cpp.o -c /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/malaga_test.cpp
 
 CMakeFiles/malaga_test.dir/malaga_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/malaga_test.dir/malaga_test.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/malaga_test.cpp > CMakeFiles/malaga_test.dir/malaga_test.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/malaga_test.cpp > CMakeFiles/malaga_test.dir/malaga_test.cpp.i
 
 CMakeFiles/malaga_test.dir/malaga_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/malaga_test.dir/malaga_test.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/malaga_test.cpp -o CMakeFiles/malaga_test.dir/malaga_test.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/malaga_test.cpp -o CMakeFiles/malaga_test.dir/malaga_test.cpp.s
 
 CMakeFiles/malaga_test.dir/malaga_test.cpp.o.requires:
 .PHONY : CMakeFiles/malaga_test.dir/malaga_test.cpp.o.requires
@@ -106,24 +106,46 @@ malaga_test_EXTERNAL_OBJECTS =
 malaga_test: CMakeFiles/malaga_test.dir/main.cpp.o
 malaga_test: CMakeFiles/malaga_test.dir/malaga_test.cpp.o
 malaga_test: CMakeFiles/malaga_test.dir/build.make
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_ts.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_superres.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_ocl.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_gpu.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_contrib.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_legacy.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_video.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_ml.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_flann.so.2.4.8
-malaga_test: /usr/lib/x86_64-linux-gnu/libopencv_core.so.2.4.8
+malaga_test: /home/ayush/anaconda2/lib/libopencv_xphoto.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_xobjdetect.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_tracking.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_surface_matching.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_structured_light.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_stereo.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_saliency.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_rgbd.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_reg.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_plot.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_optflow.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_line_descriptor.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_fuzzy.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_dpm.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_dnn.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_datasets.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_ccalib.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_bioinspired.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_bgsegm.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_aruco.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_videostab.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_superres.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_stitching.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_photo.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_text.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_face.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_ximgproc.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_xfeatures2d.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_shape.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_video.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_objdetect.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_calib3d.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_features2d.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_ml.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_highgui.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_videoio.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_imgcodecs.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_imgproc.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_flann.so.3.1.0
+malaga_test: /home/ayush/anaconda2/lib/libopencv_core.so.3.1.0
 malaga_test: CMakeFiles/malaga_test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable malaga_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/malaga_test.dir/link.txt --verbose=$(VERBOSE)
@@ -141,6 +163,6 @@ CMakeFiles/malaga_test.dir/clean:
 .PHONY : CMakeFiles/malaga_test.dir/clean
 
 CMakeFiles/malaga_test.dir/depend:
-	cd /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1 /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1 /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build /home/ayush/IIITD_Internship/SwaRath/Testing_Malaga_Urban_Dataset/Work1/build/CMakeFiles/malaga_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build /home/ayush/Stereo_Correspondence_Semi_Global_Matching-master/build/CMakeFiles/malaga_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/malaga_test.dir/depend
 
